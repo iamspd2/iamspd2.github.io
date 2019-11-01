@@ -791,6 +791,9 @@ body {
 .slide-menu-container .slide-menu .kayo-user-info .social-media a.twitter:before {
   background: #1da1f2;
 }
+.slide-menu-container .slide-menu .kayo-user-info .social-media a.github:before {
+  background: #000000;
+}
 .slide-menu-container .slide-menu .kayo-user-info .social-media a.behance:before {
   background: #0057ff;
 }
